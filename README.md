@@ -24,6 +24,23 @@ Source data file downloaded from the given URL and unzipped with the default fol
 
 Extracted files read as table from the relevant folders into data frames simular names with the file names
 
+Columns in train and test tests updated
+
+Data set column created indicating data from train or test set
+
+All dataframes in test and train sets binded
+
+train and test dataframes merged full set created
+
+mean() or std() values are refined
+
+descriptive aticity names filled
+
+dataset variable names re defined by descriptive names
+
+tidy data set created by calculating mean for each individual, activity type and data set
+
+tidy data saved into text file
 
 ## librarys used in run_analysis.R
 
